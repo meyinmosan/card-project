@@ -1,0 +1,86 @@
+.new{
+  background-color: black;
+  padding-left: 2ch;
+  padding-top: 2ch;
+}
+h5{
+  color: white;
+}
+p{
+  color: rgb(107, 106, 104);
+}
+h2{
+  color: rgb(238, 175, 57);
+}
+.row{
+  padding-top: 2ch;
+}
+#title{
+  padding: 3% 10%;
+}
+.navbar-brand{
+  padding-bottom: 40px;
+}
+hr{
+  color: white;
+}
+.thebright{
+  color: black;
+  font-weight: 8;
+}
+.newp{
+  max-width: 100%;
+}
+.btm{
+ width: 150px;
+ height: 35px;
+ background-color: rgb(245, 37, 10);
+ color: white;
+}
+.down{
+  padding-top: 4ch;
+}
+.boddy{
+  padding-left: 2ch;
+}
+.write{
+  padding-left: 4ch;
+}
+.im{
+  padding-bottom: 2ch;
+}
+.size1{
+  font-size: 2ch;
+  color: black;
+}
+.size2{
+  font-size: 1.5ch;
+  max-width: 30ch;
+}
+.ccc{
+  color: rgb(190, 190, 183);
+}
+.size1:active{
+  color: red;
+}
+.size1:hover{
+  color: rgb(240, 75, 16);
+}
+.new1:hover{
+  color: rgb(190, 133, 26);
+}
+.btm:hover{
+ background-color: black;
+}
+.btm:active{
+  background-color: rgb(214, 17, 17);
+ }
+ .space{
+  max-width: 93%;
+ }
+ .write-up{
+  max-width: 90%;
+ }
+ h1{
+  font-weight: 550;
+ }
